@@ -21,3 +21,11 @@ Some of the information noticed from the analysis are
   ● American Samoa has the highest average body mass index of 28.18 and Ethiopia have the least of 19.59.
   
   ● Athletics events have the most number of medals followed by swimming events considering both male and female athletes together. In the case of male athletes Athletics events have the most medal followed by Rowing events and in the case of female athletes swimming events have the most medal followed by athletics events.
+  
+  
+ # References
+ 
+ Tableau Public: https://public.tableau.com/profile/udayan2689#!/vizhome/OlympicsAnalysis1924-2016/OlympicAnalysis
+ Portfolio: https://udayan726.wixsite.com/udayansawant
+ 
+ 
