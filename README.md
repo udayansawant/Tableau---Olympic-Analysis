@@ -1,4 +1,4 @@
-# Tableau - Olympic-Analysis
+# Tableau- Olympic-Analysis
 
 The visualisation has used preattentive attributes such as shape, size, orientation, colour, the position and Gestalt
 principles such as proximity, similarity, continuity throughout the process. For the final analysis, all the three
